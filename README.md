@@ -8,12 +8,12 @@
 * learn LMS
       
 
-*single asterisks*
-_single underscores_
-**double asterisks**
-__double underscores__
-~~cancelline~~
-:black_Cat:
+*single asterisks*   
+_single underscores_   
+**double asterisks**   
+__double underscores__   
+~~cancelline~~   
+🐈‍⬛
 
 
 
