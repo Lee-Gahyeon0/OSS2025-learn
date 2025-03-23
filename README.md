@@ -1,11 +1,6 @@
 # OSS-learn 
 
-###  this is Markdown testing main page   
-
-#### To do thing   
-* Code Tree
-* Gitgub commits
-* learn LMS
+This is the GitHub page for the **Open Source Sopware development** lecture    
       
 
 *single asterisks*   
@@ -15,5 +10,10 @@ __double underscores__
 ~~cancelline~~   
 🐈‍⬛
 
+## To do list
+ 매일 갱신하기
+* Code Tree 
+* Gitgub commits
+* 데이터 구조 LMS 듣기
 
 
