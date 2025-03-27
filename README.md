@@ -12,8 +12,10 @@ __double underscores__
 
 ## To do list
  매일 갱신하기
-* Code Tree 
+* Code Tree
+* Code Tree 깃허브 연동 오류 해결하기
 * Gitgub commits
-* 데이터 구조 LMS 듣기
+* 객체지향프로그래밍 과제 (섭씨화씨) 해결하기
+* 
 
 
