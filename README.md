@@ -12,7 +12,7 @@ __double underscores__
 
 ## To do list
  매일 갱신하기
-- [ ] To do list 갱신   
+- [x] To do list 갱신   
 - [ ] OSS 과제3   
 - [ ] 스트레칭하기   
 - [ ] 시험 공부
